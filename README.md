@@ -45,8 +45,11 @@ Afin d'avoir une structure de répertoire propre, les scripts Python doivent êt
 7. **Se connecter au conteneur en mode interactif**
    Connectez-vous au conteneur en mode interactif grâce à la commande `bash`
 
-8. **Exécution du script Python**
+8. **Exécution du script Python (remote)**
     Exécutez le script Python fourni
+
+9. **Exécution du script Python**
+    Exécutez le script Python fourni depuis un terminal local (utiliser exec)
 
 9. **Nettoyage**
     Arrêtez le conteneur
